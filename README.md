@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMoe-hacker%2Fruri.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMoe-hacker%2Fruri?ref=badge_shield)
+
 
 ![](https://github.com/Moe-hacker/ruri/raw/main/logo/logo.png)
 
@@ -131,3 +133,6 @@ Copyright (c) 2022-2023 Moe-hacker
 <p align="center">散り行く運命 知りながら、</p>    
 <p align="center">僅かな時の彩を 」</p>          
 <p align="center">(>_×)</p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMoe-hacker%2Fruri.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMoe-hacker%2Fruri?ref=badge_large)
